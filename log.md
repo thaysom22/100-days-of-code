@@ -1,30 +1,45 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: August 17, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on CI Love Running guided project. USed Slack for help with CSS for header and section overlap. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Enjoyed putting HTML and CSS together to start producing a visually appealing website. Understanding more CSS properties and feeling confident with HTML. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: August 18, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on CI Love Running guided project. Made second section involving a 3 div horizontal layout. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** position cssproperty will require more practice. Satisfying to make clean and balanced layout which should be reusable in future. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** 
+
+### Day 3: August 19, 2020 
+
+**Today's Progress**: Worked on CI Love Running guided project. Read 'Web Design' textbook on using SVG images.  
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 4: August 20, 2020 
+
+**Today's Progress**: Worked on CI Love Running guided project. Completed Python Morsels: 'add' exercise. 
+
+**Thoughts:**  Reminded of packing/unpacking operators and zip() function in python. 
+
+**Link to work:** 
+
+### Day 5: August 20, 2020 
+
+**Today's Progress**: Finished Love Running static website guided project. 
+
+**Thoughts:** Website looks good and responds well on different viewport sizes. Did not submit final challenge on LMS correctly to pass all tests.
+
+**Link to work:** https://repl.it/@THaysom/Love-Running
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
