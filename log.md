@@ -40,6 +40,16 @@
 
 **Link to work:** https://repl.it/@THaysom/Love-Running
 
+*days 6-9 completed  
+
+### Day 5: August 25, 2020 
+
+**Today's Progress**: Finished learning Git basics and pushing commits to github for version control. README.md files. Using chrome dev tools. 
+
+**Thoughts:** All very practical tools for development workflow. These last couple of days have clarified terminology and processes I was unsure about. 
+
+**Link to work:** 
+
 
 
 
