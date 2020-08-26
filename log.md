@@ -42,13 +42,24 @@
 
 *days 6-9 completed  
 
-### Day 5: August 25, 2020 
+### Day 10: August 25, 2020 
 
 **Today's Progress**: Finished learning Git basics and pushing commits to github for version control. README.md files. Using chrome dev tools. 
 
 **Thoughts:** All very practical tools for development workflow. These last couple of days have clarified terminology and processes I was unsure about. 
 
 **Link to work:** 
+
+### Day 11: August 26, 2020 
+
+**Today's Progress**: Learning the basics of bootstrap and the difference between a 'library' and a 'framework'. Looked at what bootstrap can help with and how to include in a project.  1h am. 1h pm.
+
+**Thoughts:** First day back at work. Very empowering and interesting to explore source code of Bootstrap - I would like to explore source code of other libraries I use. 
+
+**Link to work:** 
+
+
+
 
 
 
